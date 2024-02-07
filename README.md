@@ -1,3 +1,7 @@
+# To Continue:
+
+https://docs.astro.build/en/tutorial/6-islands/3/
+
 # Astro Starter Kit: Minimal
 
 ```sh
